@@ -25,5 +25,5 @@ Password: Test@123
 
 Credential for user panel :
 
-Username: anuj.lpu1@gmail.com
+Username: diniyc85@gmail.com
 Password: Test@123
